@@ -61,7 +61,7 @@ h1, h2, h3, h4 {
 
 .section-column {
     display: table-cell;
-    padding 0 30px 30px;
+    padding: 0px 30px 30px;
     float: none;
 }
 
@@ -80,7 +80,7 @@ header {
 }
 
 .heading {
-    margin-left; 50px;
+    margin-left: 50px;
 }
 
 .logo {
@@ -236,7 +236,7 @@ footer {
 
 .personal-info-item {
     margin-bottom: 20px;
-    displace: block;
+    display: block;
     clear: both;
 }
 
